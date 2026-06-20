@@ -1,0 +1,13 @@
+name: clawgenius-marketing
+version: 0.1.0
+description: Positioning, GTM, content, and campaign strategy agent
+hermes_requires: '>=0.12.0'
+author: ClawGenius
+license: Proprietary
+env_requires: []
+distribution_owned:
+- SOUL.md
+- skills/
+- cron/
+- mcp.json
+- distribution.yaml
